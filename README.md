@@ -29,4 +29,4 @@ NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 CLERK_SECRET_KEY=your_clerk_secret_key
 ```
 
-You can obtain these keys by creating a project in the Clerk Dashboard. `https://dashboard.clerk.com/apps/app_2sdXhbwG1OuAtAwXrKWzNl8OU2V/instances/ins_2sdXhdh7uoVDN1nqwWsV2XfPqJq/api-keys`
+You can obtain these keys by creating a project in the Clerk Dashboard. `https://dashboard.clerk.com`

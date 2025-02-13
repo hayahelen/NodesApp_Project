@@ -21,7 +21,8 @@ NodesApp is a dynamic and interactive application designed to create, manage, an
 - **State Management**: TanStack Query for efficient data fetching and caching.
 - **Validation**: Zod for workflow and form validation.
 
-##Environment Variables
+## Environment Variables
+
 To run this project, you need to set up the following environment variables in a `.env.local` file:
 
 ```bash
